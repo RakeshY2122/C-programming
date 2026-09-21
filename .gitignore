@@ -1,0 +1,12 @@
+# Compiled C files
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code user settings
+.vscode/settings.json
+
+# OS junk
+Thumbs.db
+.DS_Store
